@@ -1,0 +1,1 @@
+# cpp_ftream_bmp_color2bw
